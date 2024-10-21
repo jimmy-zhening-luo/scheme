@@ -15,7 +15,9 @@ Every scheme added to this list is, at time of writing, either:
 > [!IMPORTANT]
 > _Prerequisite:_ Uninstall `Apple Books` app.
 
-`prefs:root=IBOOKS`
+```bash
+prefs:root=IBOOKS
+```
 
 ---
 
@@ -25,7 +27,9 @@ Every scheme added to this list is, at time of writing, either:
 
 #### App Updates
 
-`itms-apps://itunes.apple.com/updates`
+```bash
+itms-apps://itunes.apple.com/updates
+```
 
 ### Photos
 
@@ -35,15 +39,23 @@ Every scheme added to this list is, at time of writing, either:
 
 #### Bursts
 
-`photos://album?name=bursts`
+```bash
+photos://album?name=bursts
+```
 
 #### Favorites
 
-`photos://album?name=favorites` [^1]
+```bash
+photos://album?name=favorites
+```
+
+[^1]
 
 #### Hidden
 
-`photos://album?name=hidden`
+```bash
+photos://album?name=hidden
+```
 
 #### Imported
 
@@ -64,31 +76,53 @@ Every scheme added to this list is, at time of writing, either:
 
 #### Memories
 
-`photos-navigation://memories` [^1]
+```bash
+photos-navigation://memories
+```
+
+[^1]
 
 #### One Year Ago
 
-`photos://oneyearago` [^1]
+```bash
+photos://oneyearago
+```
+
+[^1]
 
 #### People and Pets
 
-`photos://people` [^1]
+```bash
+photos://people
+```
+
+[^1]
 
 #### Recently Deleted
 
-`photos://album?name=recently-deleted` [^1]
+```bash
+photos://album?name=recently-deleted
+```
+
+[^1]
 
 #### Screenshots
 
-`photos://album?name=screenshots`
+```bash
+photos://album?name=screenshots
+```
 
 #### Trips
 
-`photos://trips`
+```bash
+photos://trips
+```
 
 #### Videos
 
-`photos://album?name=videos`
+```bash
+photos://album?name=videos
+```
 
 ---
 
