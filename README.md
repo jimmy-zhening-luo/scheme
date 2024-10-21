@@ -4,7 +4,7 @@ Every scheme added to this list is, at time of writing, either:
 
 - _Found by me:_ No prior search results
 
-- _Found by [someone](#id-readme-credit) else:_ At __most__ one prior search result
+- _Found by [someone else](#anchor-credit):_ At __most__ one prior search result
 
 ## Settings
 
@@ -18,8 +18,6 @@ Every scheme added to this list is, at time of writing, either:
 ```bash
 prefs:root=IBOOKS
 ```
-
----
 
 ## First-Party Apps
 
@@ -35,7 +33,9 @@ itms-apps://itunes.apple.com/updates
 
 #### Albums (All)
 
-`photos-navigation://album`
+```bash
+photos-navigation://album
+```
 
 #### Bursts
 
@@ -123,8 +123,6 @@ photos://trips
 ```bash
 photos://album?name=videos
 ```
-
----
 
 ## Third-Party Apps
 
@@ -253,10 +251,6 @@ Coming soon
 
 Coming soon
 
----
-
-<a name="id-readme-credit"></a>
-
-## Credit
+<a name="anchor-credit"></a>
 
 [^1]: [Sami Samhuri](https://samhuri.net/posts/2024/04/photos-navigation-url-scheme)
