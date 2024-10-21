@@ -1,0 +1,108 @@
+##########################################
+########                          ########
+########        .gitignore        ########
+########                          ########
+########          v6.0.0          ########
+########                          ########
+##########################################
+
+
+#######################
+####               ####
+####    Project    ####
+####               ####
+#######################
+
+
+
+
+######################
+####              ####
+####    Common    ####
+####              ####
+######################
+
+############################
+###   Directory (root)   ###
+############################
+
+## Build
+/dist/
+/build/
+/built/
+/bundle/
+/pack/
+/packed/
+/package/
+/packaged/
+
+## Runtime
+/in/
+/input/
+/out/
+/output/
+
+
+##########################
+###   Directory (**)   ###
+##########################
+
+## Dependency
+node_modules/
+
+## Build Artifact
+.svelte-kit/
+
+## IDE
+.vscode/
+
+## Filesystem (iOS)
+.Trash/
+
+
+#######################
+###   File (root)   ###
+#######################
+
+## Example
+## /*.foo
+
+
+#####################
+###   File (**)   ###
+#####################
+
+## Runtime
+*.env
+*.env.*
+!.env.*example
+
+## Dependency
+.yarn-integrity
+
+## Build
+*.tgz
+
+## Build Artifact
+*.tsbuildinfo
+*.DS_Store
+*.vercel
+*.output
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+## Cache
+*.eslintcache
+*.npm
+
+## Log
+log
+logs
+*.log
+*.logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Filesystem (iOS)
+*.icloud
