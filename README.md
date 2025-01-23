@@ -8,6 +8,14 @@ Every scheme added to this list is, at time of writing, either:
 
 ## Settings
 
+### Apple Account
+
+#### Open Settings → Apple Account → iCloud → Photos
+
+```bash
+prefs:root=APPLE_ACCOUNT&path=ICLOUD_SERVICE/com.apple.Dataclass.Photos
+```
+
 ### Apps
 
 #### Open Settings → Apps
