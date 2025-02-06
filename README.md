@@ -120,6 +120,12 @@ photos://album?name=recently-deleted
 photos://album?name=screenshots
 ```
 
+#### Search
+
+```bash
+photos-navigation://search
+```
+
 #### Trips
 
 ```bash
