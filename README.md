@@ -259,6 +259,12 @@ Coming soon
 
 Coming soon
 
+### LG
+
+```bash
+com.lgeha.nuts://
+```
+
 <a name="anchor-credit"></a>
 
 [^1]: [Sami Samhuri](https://samhuri.net/posts/2024/04/photos-navigation-url-scheme)
