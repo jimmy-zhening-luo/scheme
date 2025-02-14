@@ -1,9 +1,7 @@
 # Rare iOS URL Schemes
-
 Every scheme added to this list is, at time of writing, either:
 
 - _Found by me:_ No prior search results
-
 - _Found by [someone else](#anchor-credit):_ At __most__ one prior search result
 
 ## Settings
@@ -19,7 +17,6 @@ prefs:root=APPLE_ACCOUNT&path=ICLOUD_SERVICE/com.apple.Dataclass.Photos
 ### Apps
 
 #### Open Settings → Apps
-
 > [!IMPORTANT]
 > _Prerequisite:_ Uninstall `Apple Books` app.
 
@@ -66,7 +63,6 @@ photos://album?name=hidden
 ```
 
 #### Imported
-
 > [!WARNING]
 > iOS 18.0.1: `all-imported` and `last-imported` fail
 
@@ -144,18 +140,24 @@ photos://album?name=videos
 
 #### Subscribe & Save
 
-- Upcoming Deliveries
+##### Upcoming Deliveries
 
-  - Coming soon
+```bash
+Coming soon
+```
 
-- Subscriptions (Active)
+##### Subscriptions (Active)
 
-  - Coming soon
+```bash
+Coming soon
+```
 
-- Subscriptions (Canceled)
+##### Subscriptions (Canceled)
 
-  - Coming soon
-  
+```bash
+Coming soon
+```
+
 ### Google Calendar
 
 #### Views
@@ -259,11 +261,15 @@ googlecalendar://?action=&title=&description=&location=&add=&isallday=&dates=
 
 ##### Edit Existing Event
 
+```bash
 Coming soon
+```
 
 ##### Open Calendar to View Existing Event
 
+```bash
 Coming soon
+```
 
 ### LG
 
