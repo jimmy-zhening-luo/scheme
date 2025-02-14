@@ -158,6 +158,18 @@ Coming soon
 Coming soon
 ```
 
+### FedEx
+
+#### Track Package
+
+```bash
+https://www.fedex.com/fedextrack/?trknbr=
+```
+
+```bash
+https://www.fedex.com/wtrk/track/?trknbr=
+```
+
 ### Google Calendar
 
 #### Views
