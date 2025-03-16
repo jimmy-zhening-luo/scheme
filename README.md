@@ -133,6 +133,11 @@ photos://trips
 ```bash
 photos://album?name=videos
 ```
+### Safari
+
+```bash
+data:text/html,%3Cscript%3Eonload%3Dself.close%3C/script%3E
+```
 
 ## Third-Party Apps
 
